@@ -18,7 +18,7 @@ This is a simple proxy server built with Express.js that allows you to forward r
 
    ```bash
    git clone https://github.com/yourusername/corsbypass.git
-   cd url-proxy-server
+   cd corsbypass
 
 2. Install dependencies:
    ```bash
